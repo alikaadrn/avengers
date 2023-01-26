@@ -1,0 +1,630 @@
+
+
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+/*----------------------------------ARTIKEL------------------------------*/
+* {
+    font-family: "Poppins", sans-serif;
+    background-color: rgba(0, 173, 181, 1);
+    margin-top: 20px;
+}
+
+.flex-artikel {
+    padding-bottom: 20px;
+    
+}
+
+.flex-top-artikel {
+    padding-bottom: 30px;
+    text-align: justify;
+}
+
+.flex2-artikel {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    background-color: rgba(226, 232, 240, 1);
+    border-radius: 20px;
+}
+
+.flex2-artikel img{
+  background-color: rgba(226, 232, 240, 1);
+    border-radius: 20px 20px 20px 20px;
+    display: block;
+    position:absolute;
+    margin-left:0px;
+    margin-right: auto;
+    width: auto;
+}
+.flex2-artikel h5{
+  background-color: rgba(226, 232, 240, 1);
+    display: block;
+    text-align: left;
+    font-weight: bold;
+    margin-bottom: 50px;
+    padding-left: 400px;
+    padding-top: 10px;
+}
+
+.flex2-artikel p{
+  background-color: rgba(226, 232, 240, 1);
+    text-align: justify;
+    position: static;
+    padding-left: 400px;
+}
+
+
+.flex3-artikel {
+  border-radius: 20px;
+  background-color: rgba(226, 232, 240, 1);
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.flex3-artikel img{
+  background-color: rgba(226, 232, 240, 1);
+    border-radius: 20px 20px 20px 20px;
+    display: block;
+    position:absolute;
+    margin-left:0px;
+    margin-right: auto;
+    width: auto;
+}
+
+.flex3-artikel h5{
+  background-color: rgba(226, 232, 240, 1);
+    display: block;
+    text-align: left;
+    font-weight: bold;
+    margin-bottom: 50px;
+    padding-left: 400px;
+    padding-top: 10px;
+}
+
+.flex3-artikel p{
+  background-color: rgba(226, 232, 240, 1);
+    text-align: justify;
+    position: static;
+    padding-left: 400px;
+}
+
+.flex4-artikel  {
+  border-radius: 20px;
+  background-color: rgba(226, 232, 240, 1);
+    padding-top: 10px;
+    padding-bottom: 30px;
+    margin-bottom: 50px;
+}
+
+.flex4-artikel img{
+  background-color: rgba(226, 232, 240, 1);
+    border-radius: 20px 20px 20px 20px;
+    display: block;
+    position:absolute;
+    margin-left:0px;
+    margin-right: auto;
+    width: auto;
+}
+
+.flex4-artikel h5{
+  background-color: rgba(226, 232, 240, 1);
+    display: block;
+    text-align: left;
+    font-weight: bold;
+    margin-bottom: 50px;
+    padding-left: 400px;
+    padding-top: 10px;
+}
+
+.flex4-artikel p{
+  background-color: rgba(226, 232, 240, 1);
+    text-align: justify;
+    position: static;
+    padding-left: 400px;
+}
+
+/*----------------------------------KAMPANYE------------------------------*/
+
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+.Kampanyepage {
+  background-color:rgba(0, 173, 181, 1); 
+  padding-bottom: 0px;
+}
+
+.fluid1-kampanye {
+  background-color: rgb(255, 255, 255);
+  border-radius: 20px;
+  margin-top: 70px;
+  width: 1344px;
+  height: 290px;
+  padding-top: 30px;
+}
+
+.fluid1-kampanye img{
+  background-color: rgb(255, 255, 255);
+  position:static;
+  size: auto;
+  height: 94px;
+  width: 105px;
+
+}
+.fluid1-kampanye h1 {
+  background-color: rgb(255, 255, 255);
+}
+.fluid1-kampanye p{
+  background-color: rgb(255, 255, 255);
+}
+
+.fluid2-kampanye{
+  background-color: rgb(255, 255, 255);
+  border-radius: 20px;
+  margin-top: 80px;
+  width: 1344px;
+  height: 250px;
+  padding-top: 30px;
+}
+.fluid2-kampanye h1 {
+  background-color: rgb(255, 255, 255);
+}
+.fluid2-kampanye p{
+  background-color: rgb(255, 255, 255);
+}
+.fluid2-kampanye img{
+  background-color: rgb(255, 255, 255);
+}
+
+.fluid3-kampanye{
+  background-color: rgb(255, 255, 255);
+  border-radius: 20px;
+  margin-top: 70px;
+  width: 1344px;
+  height: 270px;
+  padding-top: 30px;
+}
+.fluid3-kampanye h1 {
+  background-color: rgb(255, 255, 255);
+}
+.fluid3-kampanye p{
+  background-color: rgb(255, 255, 255);
+}
+.fluid3-kampanye img{
+  background-color: rgb(255, 255, 255);
+}
+
+.fluid4-kampanye{
+  background-color: rgb(255, 255, 255);
+  border-radius: 20px;
+  margin-top: 70px;
+  width: 1344px;
+  height: 265px;
+  padding-top: 30px;
+}
+.fluid4-kampanye h1 {
+  background-color: rgb(255, 255, 255);
+}
+.fluid4-kampanye p{
+  background-color: rgb(255, 255, 255);
+}
+.fluid4-kampanye img{
+  background-color: rgb(255, 255, 255);
+}
+
+.fluid5-kampanye{
+  background-color: rgb(255, 255, 255);
+  border-radius: 20px;
+  margin-top: 70px;
+  margin-bottom: 70px;
+  width: 1344px;
+  height: 250px;
+  padding-top: 30px;
+}
+.fluid5-kampanye h1 {
+  background-color: rgb(255, 255, 255);
+}
+.fluid5-kampanye p{
+  background-color: rgb(255, 255, 255);
+}
+.fluid5-kampanye img{
+  background-color: rgb(255, 255, 255);
+}
+
+/*----------------------------------PROGRAM------------------------------*/
+
+* {
+  font-family: "Poppins", sans-serif;
+
+}
+
+.hero-program{
+  background-color:rgba(0, 173, 181, 1);
+}
+
+.gallery{
+}
+
+.flex-program{
+  background-color:rgba(0, 173, 181, 1);
+  background-size:auto;
+  padding-top: 90px;
+  padding-left: 50px ;
+  height: 60vh;
+  font-size: 18px;
+}
+
+.flex-program h1{
+  background-color: rgba(0, 173, 181, 1) ;
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  padding-left: 40px;
+  padding-top: 20px;
+}
+
+.flex-program img{
+  height: 240px;
+  border-radius: 20px 20px 20px 20px;
+  position: absolute;
+  left: 69.22%;
+  right: 9.3%;
+  top: 43.60%;
+  bottom: 8.21%;
+}
+
+.flex-program p{
+  background-color: rgba(0, 173, 181, 1) ;
+  padding-right: 500px;
+  padding-left: 40px;
+  padding-top: 10px;
+}
+
+.gallery h1{
+  position: absolute;
+  font-size: 21px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  margin-top: 100px ;
+  margin-left: 370px;
+}
+
+.gallery p{
+  font-size: 16px;
+  position: absolute;
+  margin-top: 110px ;
+  margin-left: 370px;
+  margin-right: 100px;
+}
+
+.gallery img{
+  position: absolute;
+  border-radius: 20px;
+  height: 250px;
+  margin-left: 15px;
+  margin-top: 80px ;
+}
+
+.gallery button{
+  border-radius: 20px;
+  position: absolute;
+  margin-top: 290px ;
+  margin-left: 365px;
+}
+
+.foodtruck img{
+  position: absolute;
+  height: 240px;
+  width: 310px;
+  margin-left: 0px;
+  margin-top: 400px ;
+  border-radius: 20px;
+}
+
+.foodtruck h1{
+  position: absolute;
+  font-size: 21px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  margin-top: 422px ;
+  margin-left: 370px;
+}
+
+.foodtruck p{
+  font-size: 16px;
+  position: absolute;
+  margin-top: 439px ;
+  margin-left: 370px;
+  margin-right: 100px;
+}
+
+.foodtruck button {
+  position: absolute;
+  border-radius: 20px;
+  margin-top: 610px ;
+  margin-left: 365px;
+}
+
+.kakakasuh img{
+  position: absolute ;
+  height: 240px;
+  width: 310px;
+  margin-right: 100px;
+  margin-left: 0px;
+  margin-top: 130px ;
+  border-radius: 20px;
+}
+
+.kakakasuh h1{
+  position: absolute;
+  font-size: 21px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  margin-top: 152px ;
+  margin-left: 370px;
+}
+
+.kakakasuh p{
+  font-size: 16px;
+  position: absolute;
+  margin-top: 170px ;
+  margin-left: 370px;
+  margin-right: 100px;
+}
+
+.kakakasuh button{
+  position: relative;
+  margin-top: 340px ;
+  margin-left: 365px;
+  border-radius: 20px;
+}
+
+/*----------------------------------NAVBAR------------------------------*/
+.navigation{
+  background-color: rgba(0, 173, 181, 1);
+  margin-left: 50px;
+  text-align: right;
+}
+
+.navigation img{
+  margin-right: 500px;
+  background-color: rgba(0, 173, 181, 1);
+}
+
+.nav{
+  color: black;
+}
+
+
+/*----------------------------------HOMEPAGE------------------------------*/
+.header img{
+  height: 290px;
+  width: auto;
+  position: absolute;
+  margin-left: 600px;
+}
+.header p{
+  margin-right: 550px;
+  text-align: justify;
+}
+.header{
+  margin-bottom: 150px;
+  margin-top: 80px;
+}
+
+.body-home{
+  margin-bottom: 100px;
+}
+
+.body-1 {
+}
+
+.body-1 h4{
+  text-align: center;
+}
+.body-1 h6{
+  text-align: center;
+}
+
+.card1{
+  background-color: rgb(255, 255, 255);
+  margin-left: 70px;
+  margin-bottom: 70px;
+  border-radius: 50px;
+  width: 55rem;
+  position: static;
+}
+.card-body{
+  background-color: rgb(255, 255, 255);
+  border-radius: 50px;
+}
+.card1 img{
+  background-color: rgb(255, 255, 255);
+}
+.cardlink{
+  background-color: rgb(255, 255, 255);
+  margin-bottom: 25px;
+  font-size: smaller;
+  text-align: center;
+  color:black
+}
+.title1{
+  background-color: rgb(255, 255, 255);
+  text-align: start;
+}
+.textcard{
+  color: black;
+  background-color: rgb(255, 255, 255);
+}
+
+
+
+
+
+
+.card2{
+  padding-top: 0px;
+  margin-left: 390px;
+  margin-bottom: 70px;
+  position: top;
+}
+.card-body2{
+  background-color: rgb(255, 255, 255);
+  border-radius: 50px;
+}
+.card2 img{
+  background-color: rgb(255, 255, 255);
+ 
+}
+.cardlink2{
+  background-color: rgb(255, 255, 255);
+  font-size: smaller;
+  text-align: right;
+  color:black
+}
+.title2{
+  background-color: rgb(255, 255, 255);
+  text-align: start;
+}
+.textcard2{
+  color: black;
+  background-color: rgb(255, 255, 255);
+}
+
+.card-home{
+  padding-right: 70px;
+  padding-bottom: 90px;
+  border-radius: 20px 20px 20px 20px;
+}
+
+
+.body-home2{
+  margin-bottom: 100px;
+}
+
+.body-2 {
+}
+
+.body-2 h4{
+  text-align: center;
+}
+.body-2 h6{
+  text-align: center;
+}
+
+
+
+
+
+.flex2-home {
+  padding-top: 10px;
+  padding-bottom: 40px;
+  background-color: rgba(226, 232, 240, 1);
+  border-radius: 20px;
+}
+
+.flex2-home img{
+  background-color: rgba(226, 232, 240, 1);
+  border-radius: 20px 20px 20px 20px;
+  display: block;
+  position:absolute;
+  margin-left:20px;
+  margin-right: auto;
+  width: auto;
+  height: 170px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+.flex2-home h5{
+background-color: rgba(226, 232, 240, 1);
+  display: block;
+  text-align: left;
+  font-weight: bold;
+  margin-bottom: 50px;
+  padding-left: 400px;
+  padding-top: 10px;
+}
+
+.flex2-home button{
+  position: static;
+  margin-left: 400px;
+  border-radius: 30px;
+}
+
+
+
+
+.flex3-home {
+  padding-top: 10px;
+  padding-bottom: 50px;
+  margin-right: 50px;
+  background-color: rgba(226, 232, 240, 1);
+  border-radius: 20px;
+}
+
+.flex3-home img{
+  background-color: rgba(226, 232, 240, 1);
+  border-radius: 20px 20px 20px 20px;
+  display: block;
+  position:absolute;
+  margin-left:20px;
+  margin-right: auto;
+  width: auto;
+  height: 155px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+.flex3-home h5{
+background-color: rgba(226, 232, 240, 1);
+  display: block;
+  text-align: left;
+  font-weight: bold;
+  margin-bottom: 50px;
+  padding-left: 400px;
+  padding-top: 10px;
+}
+
+.flex3-home button{
+  position: static;
+  margin-left: 400px;
+  border-radius: 30px;
+}
+
+
+
+.flex4-home {
+  padding-top: 10px;
+  padding-bottom: 50px;
+  margin-bottom: 50px;
+  background-color: rgba(226, 232, 240, 1);
+  border-radius: 20px;
+}
+
+.flex4-home img{
+  background-color: rgba(226, 232, 240, 1);
+  border-radius: 20px 20px 20px 20px;
+  display: block;
+  position:absolute;
+  margin-left:20px;
+  margin-right: auto;
+  width: auto;
+  height: 155px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+.flex4-home h5{
+background-color: rgba(226, 232, 240, 1);
+  display: block;
+  text-align: left;
+  font-weight: bold;
+  margin-bottom: 50px;
+  padding-left: 400px;
+  padding-top: 10px;
+}
+
+.flex4-home button{
+  position: static;
+  margin-left: 400px;
+  border-radius: 30px;
+}

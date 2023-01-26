@@ -1,0 +1,31 @@
+
+const Header = () => {
+
+  const className=(path) => {
+    if (window.location.pathname === path) return "active nav-link"
+    return "nav-link"
+  }
+
+  return (
+    
+
+ <Nav variant="pills" className="navbar">
+          <img
+              src={navbar1}
+              width="130"
+              height="50"
+              className="logo"
+              alt="Logo"
+            />
+        <Link to={'/'} className={className('/')}>Whats On</Link>
+        <Link to={'/program'} className={className('/program')}>Program</Link>
+        <Link to={'/kampanye'} className={className('/kampanye')}>Kampanye</Link>
+        <Link to={'/artikel'} className={className('/artikel')}>Artikel</Link>
+        <Link to={'/akun'} className={className('/akun')}>Akun</Link>
+        <Link to={'/login'} className={className('/login')}>Sign In</Link>
+        <p className="text-right mt-2 mb-2"></p>
+      </Nav>
+  )
+}
+
+export default Header
